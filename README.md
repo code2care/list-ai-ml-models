@@ -1,4 +1,4 @@
-# list-ai-ml-models
+# A List of AI/ML (LLM) Models
 Trying to collate all the AL/ML (LLM) models at one place.
 
 - **OpenAI Chat GPT-1**: [OpenAI Chat GPT-1](https://code2care.org/ai-models-list/openai-chat-gpt-1)
